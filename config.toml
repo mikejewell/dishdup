@@ -1,5 +1,5 @@
 baseurl = "http://dishdup.com"
-languageCode = "en-gb"
+languageCode = "en-GB"
 title = "Dishdup"
 theme = "nofancy"
 pygmentsStyle = "native"
